@@ -1,4 +1,5 @@
-// First program to be committed 
+// program to print all list values 
+
 
 #include <stdio.h>
 #include <stdlib.h>

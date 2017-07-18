@@ -1,6 +1,7 @@
 /*
 	test : VM ware 
-	diff : simple 
+	diff : simple
+	to remove a key in a linked list 
 */
 
 #include <stdio.h>

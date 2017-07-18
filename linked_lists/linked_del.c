@@ -1,5 +1,4 @@
-// First program to be committed 
-
+// delete a key  in LL 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
