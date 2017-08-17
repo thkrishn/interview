@@ -1,12 +1,10 @@
-# interview
+﻿# interview
 Code snippets for Interview prep
-<<<<<<< HEAD
 Just some of my own implementation 
+Improvements in algorithms are welcome
 
-Improvemnts in algorithms are welcome
+Not all files are complete , they might have just the logic
+Some solutions are also what has been submitted to leetcode
 
-=======
-Just some of my own implementation
+Sorry if I have not included the usage
 
-Improvemnts in algorithms are welcome
->>>>>>> 0f8bd5d79ad78f89f46dc906d522e1fee1ecae87
