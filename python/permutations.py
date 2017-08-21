@@ -12,6 +12,8 @@ def permut(word):
 	
 	return result
 		
-
+def test_func():
+       print " do nothing here"
+       
 
 print permut("ACT")

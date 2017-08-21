@@ -1,3 +1,8 @@
+##
+
+I am not the author, just some stats I collected on the Internet
+
+##
 Latency Comparison Numbers
 --------------------------
 L1 cache reference                           0.5 ns
