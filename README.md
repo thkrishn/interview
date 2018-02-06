@@ -1,4 +1,4 @@
-﻿# interview
+﻿# test
 Code snippets for Interview prep
 Just some of my own implementation 
 Improvements in algorithms are welcome
