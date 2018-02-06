@@ -126,3 +126,9 @@ struct node* addatthebeg(struct node* head, int num)
     temp->next = head;
     return temp;
 }
+
+void voidfunc()
+{
+    // nothing to do
+    // here
+}

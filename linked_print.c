@@ -92,3 +92,10 @@ struct node* addatthebeg(struct node* head, int num)
     temp->next = head;
     return temp;
 }
+
+void  test_print(struct node* head)
+{
+    while(head != NULL)
+	printf(" %d ", head->data);
+}
+
