@@ -72,7 +72,6 @@ int main()
 
     printlist(head);
 
-
 }
 
 void printlist(struct node* head)
@@ -108,13 +107,13 @@ struct node* append(struct node* head , int num)
 	
 	else{
     	
-    	while (temp1->next != NULL)// go to the last node
+        while (temp1->next != NULL)// go to the last node
         	temp1 = temp1->next;
 
-	temp2 = (struct node*) malloc(sizeof(struct node));
-	temp2->data = num ;
-	temp2->next = NULL;
-	temp1->next = temp2;
+        temp2 = (struct node*) malloc(sizeof(struct node));
+        temp2->data = num ;
+        temp2->next = NULL;
+        temp1->next = temp2;
 	}
 	return head;
 }
